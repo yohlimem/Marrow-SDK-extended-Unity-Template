@@ -9,7 +9,8 @@ Go to releases and download the .tgz file
 ## Go To The Unity Installtions
 
 REMEMBER TO CLOSE THE UNITY HUB FIRST
-*Place the .tgz file in C:\Program Files\Unity\Hub\Editor\2021.3.5f1\Editor\Data\Resources\PackageManager\ProjectTemplates*
+*Place the .tgz file in 
+C:\Program Files\Unity\Hub\Editor\2021.3.5f1\Editor\Data\Resources\PackageManager\ProjectTemplates*
 
 ## Create a New Project Using The Template
 
